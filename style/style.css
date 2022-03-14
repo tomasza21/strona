@@ -17,6 +17,10 @@ p{
 
 button{
     background-color: #dacbcb;
+    width: 90px;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 button:hover{
