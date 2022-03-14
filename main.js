@@ -1,7 +1,11 @@
-let time = new Date;
+let time = new Date();
 
 const dateContainer = document.getElementsByClassName('date');
 
-dateContainer.innerHTML = `
+const changeDate = () => {
+    dateContainer.innerHTML = `
     <h4>${time}</h4>
 `;
+}
+
+changeDate();
