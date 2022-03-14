@@ -14,3 +14,12 @@ p{
 #tytul{
     color: #7e10b1;
 }
+
+button{
+    background-color: #dacbcb;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
