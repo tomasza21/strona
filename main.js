@@ -1,6 +1,6 @@
 let time = new Date;
 
-const dateContainer = document.getElementByClassName('date');
+const dateContainer = document.getElementsByClassName('date');
 
 dateContainer.innerHTML = `
     <h4>${time}</h4>
