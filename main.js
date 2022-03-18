@@ -1,6 +1,6 @@
 let time = new Date();
 
-const dateContainer = document.getElementsByClassName('date');
+const dateContainer = document.querySelector('.date');
 
 const changeDate = () => {
     dateContainer.innerHTML = `
