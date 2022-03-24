@@ -1,3 +1,3 @@
 # strona
-<p>Tworzy strone elo<p>
+Info: Działa main.js.
 <p>https://tomasza21.github.io/strona/<p>
