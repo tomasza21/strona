@@ -9,3 +9,17 @@ const changeDate = () => {
 }
 
 changeDate();
+
+
+
+let niggr = "black";
+let liczba = 1;
+if(niggr == "black"){
+    console.log(Jest gangsterem);
+}else if(niggr == "bialy"){
+    console.log("nie jest gangsterem ");
+}else if(niggr = true){
+    console.log(liczba);
+    liczba++;
+}
+
